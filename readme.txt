@@ -4,4 +4,4 @@ This is additional test.
 
 Feature 1 set
 
-I am a fish out of the water.
+I am a fishout of the water.
