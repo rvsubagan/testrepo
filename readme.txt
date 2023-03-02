@@ -6,4 +6,4 @@ Feature 1 set
 
 I am a fishout of the water.
 
-This is feature2 release candidate.
+THIS IS FEATURE2 RELEASE CANDIDATE.
